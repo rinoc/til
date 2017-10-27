@@ -1,2 +1,6 @@
-# til
-Today I Learned
+# Today I Learned
+
+## JavaScript
+## Git
+
+
